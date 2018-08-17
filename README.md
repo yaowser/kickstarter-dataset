@@ -56,7 +56,7 @@ background on features, EDA, imputation, dummy variables, nuance variables and a
 
 ## Do you have experience with Spark or big data tools for machine learning?
 
-I taught apache spark for databricks on youtube for 45 minutes to my class. I am very familar with it. bigtable, big query, some hadoop, aws, I have a certification in azure
+I taught apache spark for databricks on youtube for 45 minutes to my class. I am very familar with it. bigtable, big query, some hadoop, aws, I have a certification in azure. video lecture (teach spark final project): https://youtu.be/IVMbSDS4q3A
 
 ## Can you give examples of scenarios where machine learning is not the best option and where do you think we should apply machine learning?
 
