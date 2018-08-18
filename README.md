@@ -4,7 +4,7 @@ For a given unknown dataset, I was able to do very well because I spent most of 
 
 ## Message to subsequent data Engineers 
 
-Run the whole notebook and use the final model "rfc.fit" to apply the model to an unlabled dataset. Import the unlabeled dataset at the beginning and apply all the feature extractions in the code similar to the original df and then once the model is trained, apply that same model to the unlabeled dataset to get a new set of results
+Run the whole notebook and use the final model "rfc.predict" to apply the model to an unlabled dataset. Import the unlabeled dataset at the beginning and apply all the feature extractions in the code similar to the original df and then once the model is trained, apply that same model to the unlabeled dataset to get a new set of results
 
 ## What is your experience with machine learning development in production?
 
